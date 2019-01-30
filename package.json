@@ -1,0 +1,19 @@
+{
+  "name": "sharp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/**/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "gulp": "^4.0.0",
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {
+    "gulp-babel": "^8.0.0"
+  }
+}
