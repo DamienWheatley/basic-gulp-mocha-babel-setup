@@ -1,5 +1,7 @@
 var assert = require('assert');
 
-describe('The universe is in order', function() {
-    assert.equal(1 + 1, 2);
+describe('The universe', function() {
+    it('is in order', function() {
+        assert.equal(1 + 1, 2);
+    });
 });
